@@ -28,7 +28,7 @@ dependencies:
     version: 14.0.2
   undici:
     specifier: ^5.24.0
-    version: 5.25.4
+    version: 5.28.3
 
 devDependencies:
   '@types/node':
@@ -1560,8 +1560,8 @@ packages:
       busboy: 1.6.0
     dev: true
 
-  /undici@5.25.4:
-    resolution: {integrity: sha512-450yJxT29qKMf3aoudzFpIciqpx6Pji3hEWaXqXmanbXF58LTAGCKxcJjxMXWu3iG+Mudgo3ZUfDB6YDFd/dAw==}
+  /undici@5.28.3:
+    resolution: {integrity: sha512-3ItfzbrhDlINjaP0duwnNsKpDQk3acHI3gVJ1z4fmwMK31k5G9OVIAMLSIaP6w4FaGkaAkN6zaQO9LUvZ1t7VA==}
     engines: {node: '>=14.0'}
     dependencies:
       '@fastify/busboy': 2.0.0
